@@ -1,0 +1,7 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
+  <path d="M60 40 L100 10 L110 50 L70 70 Z" fill="#ff6f61" stroke="#ff3d34" stroke-width="4"/>
+  <path d="M20 50 L60 70 L40 90 L10 90 Z" fill="#ffb74d" stroke="#fb8c00" stroke-width="4"/>
+  <path d="M420 50 L470 30 L460 80 L410 90 Z" fill="#4db6ac" stroke="#00897b" stroke-width="4"/>
+  <text x="250" y="70" font-size="30" font-family="Arial" font-weight="bold" text-anchor="middle" fill="#44546F">Your Subtitle Here</text>
+  <line x1="120" y1="75" x2="385" y2="75" stroke="#44546F" stroke-width="3" stroke-dasharray="5,5"/>
+</svg>
